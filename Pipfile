@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 django = "*"
 djangorestframework = "*"
+djangorestframework-recursive = "*"
+django-mptt = "*"
+unicef-restlib = "*"
 
 [requires]
 python_version = "3.8"
